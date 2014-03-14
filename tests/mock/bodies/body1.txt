@@ -1,0 +1,18 @@
+{ "invoices": [
+  {
+    "url":"https://api.freeagent.com/v2/invoices/1",
+    "contact":"https://api.freeagent.com/v2/contacts/2",
+    "dated_on":"2011-08-29T00:00:00+00:00",
+    "due_on":"2011-09-28T00:00:00+00:00",
+    "reference":"001",
+    "currency":"GBP",
+    "exchange_rate":"1.0",
+    "net_value":"0.0",
+    "sales_tax_value":"0.0",
+    "status":"Draft",
+    "comments":"An example invoice comment.",
+    "omit_header":false,
+    "payment_terms_in_days":30,
+    "ec_status":"Non-EC"
+  }
+]}

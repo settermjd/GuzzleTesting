@@ -1,0 +1,19 @@
+{
+    "name": "MatthewSetter/GuzzleTesting",
+    "description": "A simple repository for learning to test with GuzzlePHP",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthew Setter",
+            "email": "matthew@maltblue.com",
+            "homepage": "http://www.matthewsetter.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "phpunit/phpunit": "4.0.*",
+        "guzzle/guzzle": "~3.7"
+    }
+}
